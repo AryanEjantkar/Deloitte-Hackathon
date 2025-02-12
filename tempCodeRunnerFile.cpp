@@ -1,0 +1,2 @@
+if (arra[i]<smallest)
+    {
